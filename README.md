@@ -7,6 +7,7 @@
 ![Christofer](https://user-images.githubusercontent.com/78102964/215747624-bf766f85-5082-4e62-b79a-eaf78b331099.png)
 
 Результат запроса по слову "Mark":
+
 ![Mark1](https://user-images.githubusercontent.com/78102964/215748114-c8f721c3-7827-4152-af41-91313b9b50fb.png)
 ![Mark2](https://user-images.githubusercontent.com/78102964/215748130-d4289b14-3a58-4dfb-857c-d96f7b28982b.png)
 
